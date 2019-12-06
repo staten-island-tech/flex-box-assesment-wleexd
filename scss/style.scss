@@ -5,3 +5,9 @@ $colors:(
     primary-dark: #094d8c
     
 )
+
+$padding: 1.3rem;
+body{
+    background-color: rgba(color(primary), 0.4);
+    color: color(primary)
+}
