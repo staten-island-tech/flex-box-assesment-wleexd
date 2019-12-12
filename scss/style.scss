@@ -11,3 +11,20 @@ body{
     background-color: rgba(color(primary), 0.4);
     color: color(primary)
 }
+
+{-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
+
+.box{
+    color:skyblue;
+    font-size: 100px;
+    text-align: center;
+    text-shadow:4px 4px 0 rgba(0,0,0,0.1);
+    padding: 10px;
+}
+
+.box1 {background: #21af4b;}
+.box2 {background: #e91d25;}
+.box3 {background: #ec4f84;}
+.container {
+
+}
